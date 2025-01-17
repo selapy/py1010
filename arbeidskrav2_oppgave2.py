@@ -2,7 +2,7 @@
 """
 Created on Thu Jan 16 13:54:23 2025
 
-@author: SEFO
+@author: 
 """
 
 # Arbeidskrav 2-oppgave 2
